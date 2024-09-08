@@ -1,3 +1,4 @@
+modelscope
 transformers
 torch
 numpy

@@ -2,7 +2,6 @@ from typing import List
 from transformers import AutoTokenizer, AutoModel
 import torch
 
-
 # 定义向量模型类
 class EmbeddingModel:
     """
